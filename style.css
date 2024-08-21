@@ -1,0 +1,17 @@
+body {
+  background-color: yellow;
+  color: brown;
+}
+
+
+.hero-img {
+  min-height: 10vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.card-img {
+  max-height: 15em;
+  object-fit: cover;
+  object-position: center
+}
